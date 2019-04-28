@@ -2,15 +2,18 @@
 List of BlockChain overview resources 
 
 ## High Level Overview
-  * [Wikipedia - Blockchain](https://en.m.wikipedia.org/wiki/Blockchain)
+  * [What is BLOCKCHAIN? The best explanation of blockchain technology: Video(6mins)](https://www.youtube.com/watch?v=3xGLc-zz9cA)
+  * [Understand the Blockchain in Two Minutes: Video(2mins)](https://www.youtube.com/watch?v=r43LhSUUGTQ)
   * [What is blockchain? The complete guide](https://www.computerworld.com/article/3191077/what-is-blockchain-the-complete-guide.html)
   * [What is Blockchain Technology? A Step-by-Step Guide For Beginners](https://blockgeeks.com/guides/what-is-blockchain-technology/)
+  * [Wikipedia - Blockchain](https://en.m.wikipedia.org/wiki/Blockchain)
   * [What Is Blockchain?](http://www2.itif.org/2018-tech-explainer-blockchain.pdf)
   * [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain)
   * [What is the Blockchain? Explaining the Tech Behind Cryptocurrencies](https://www.nytimes.com/2018/06/27/business/dealbook/blockchains-guide-information.html?module=inline)
   * [A Guide to the World of Blockchain](https://www.nytimes.com/interactive/2018/06/27/business/dealbook/blockchain-currencies.html)
   
 ## Blockchain Use Cases
+   * [Blockchains: how can they be used?: Video(7mins)](https://www.youtube.com/watch?v=aQWflNQuP_o)
    * [Top 5 energy blockchain use cases](https://blockchainatberkeley.blog/top-5-energy-blockchain-use-cases-e1def83300dc)
    * [Win customers’ hearts with a transparent supply chain](https://www.ibm.com/blogs/blockchain/2019/04/win-customers-hearts-with-a-transparent-supply-chain/)
    * [Clear skies ahead with blockchain in aviation: Making airspace safer](https://www.ibm.com/blogs/blockchain/2019/04/clear-skies-ahead-with-blockchain-making-our-airspace-safer/)
