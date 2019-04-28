@@ -27,5 +27,8 @@ List of BlockChain overview resources
   * [Blockchain Technology Overview](https://csrc.nist.gov/publications/detail/nistir/8202/draft)
   * [On blockchain and its integration with IoT. Challenges and opportunities](https://www.sciencedirect.com/science/article/pii/S0167739X17329205)
   
+  ## Blockchain Books
+   * [26 Best New Blockchain Books To Read In 2019](https://bookauthority.org/books/new-blockchain-books)
+   * [Top 20 of Best Blockchain Books Recommended Most Times by Blockchain Pros](https://www.blog.consultants500.com/web-mobile-design-and-development/top-20-best-blockchain-books-recommended-times-blockchain-pros/)
   
  
